@@ -1,0 +1,1 @@
+Each group is tasked to develop a software (in C or Java) that simulates numerical methods for solving roots of polynomials.
